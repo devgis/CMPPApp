@@ -1,0 +1,10 @@
+D:\GDSMPay\CMPP3\obj\Debug\ResolveAssemblyReference.cache
+D:\GDSMPay\CMPP3\bin\Debug\CMPP3.dll
+D:\GDSMPay\CMPP3\bin\Debug\CMPP3.pdb
+D:\GDSMPay\CMPP3\obj\Debug\CMPP3.dll
+D:\GDSMPay\CMPP3\obj\Debug\CMPP3.pdb
+D:\GDSMPay\CMPP3\bin\Release\CMPP3.dll
+D:\GDSMPay\CMPP3\bin\Release\CMPP3.pdb
+D:\GDSMPay\CMPP3\obj\Release\ResolveAssemblyReference.cache
+D:\GDSMPay\CMPP3\obj\Release\CMPP3.dll
+D:\GDSMPay\CMPP3\obj\Release\CMPP3.pdb

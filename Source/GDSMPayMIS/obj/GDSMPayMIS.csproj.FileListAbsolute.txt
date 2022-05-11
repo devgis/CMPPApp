@@ -1,0 +1,14 @@
+D:\GDSMPay\GDSMPayMIS\bin\Debug\GDSMPayMIS.exe
+D:\GDSMPay\GDSMPayMIS\bin\Debug\GDSMPayMIS.pdb
+D:\GDSMPay\GDSMPayMIS\obj\Debug\ResolveAssemblyReference.cache
+D:\GDSMPay\GDSMPayMIS\obj\Debug\GDSMPayMIS.csproj.GenerateResource.Cache
+D:\GDSMPay\GDSMPayMIS\obj\Debug\GDSMPayMIS.exe
+D:\GDSMPay\GDSMPayMIS\obj\Debug\GDSMPayMIS.pdb
+D:\GDSMPay\GDSMPayMIS\obj\Debug\PRT.GDSMPayMIS.Properties.Resources.resources
+D:\GDSMPay\GDSMPayMIS\bin\Release\GDSMPayMIS.exe
+D:\GDSMPay\GDSMPayMIS\bin\Release\GDSMPayMIS.pdb
+D:\GDSMPay\GDSMPayMIS\obj\Release\ResolveAssemblyReference.cache
+D:\GDSMPay\GDSMPayMIS\obj\Release\GDSMPayMIS.csproj.GenerateResource.Cache
+D:\GDSMPay\GDSMPayMIS\obj\Release\GDSMPayMIS.exe
+D:\GDSMPay\GDSMPayMIS\obj\Release\GDSMPayMIS.pdb
+D:\GDSMPay\GDSMPayMIS\obj\Release\PRT.GDSMPay.GDSMPayMIS.Properties.Resources.resources

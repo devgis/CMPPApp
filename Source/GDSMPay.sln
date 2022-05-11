@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSMPayMIS", "GDSMPayMIS\GDSMPayMIS.csproj", "{5A15DE50-6D83-47A5-B974-B8D517F25AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMPP3", "CMPP3\CMPP3.csproj", "{7A07A4FA-8327-408D-AA9A-8EA7E9A9FE5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSMPayService", "GDSMPayService\GDSMPayService.csproj", "{13F10BF7-CC31-4398-A980-0A4321D6838B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSMPay.Common", "GDSMOPay.Common\GDSMPay.Common.csproj", "{13B4B6C6-1ECE-4CFC-838A-E262BD4740CC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GDSMPayServiceSetup", "GDSMPayServiceSetup\GDSMPayServiceSetup.vdproj", "{2B341680-982C-4E38-8F6A-55562E933D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSMPay.Model", "GDSMPay.Model\GDSMPay.Model.csproj", "{EE96EA25-6AD5-43B9-8938-72ED258AB182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSMPay.DAL", "GDSMPay.DAL\GDSMPay.DAL.csproj", "{4B652CF4-054A-4446-BC4E-F220E51F0269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDSMPay.BLL", "GDSMPay.BLL\GDSMPay.BLL.csproj", "{78854DE5-7391-4A06-A6A0-4433717CF6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A15DE50-6D83-47A5-B974-B8D517F25AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A15DE50-6D83-47A5-B974-B8D517F25AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A15DE50-6D83-47A5-B974-B8D517F25AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A15DE50-6D83-47A5-B974-B8D517F25AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A07A4FA-8327-408D-AA9A-8EA7E9A9FE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A07A4FA-8327-408D-AA9A-8EA7E9A9FE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A07A4FA-8327-408D-AA9A-8EA7E9A9FE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A07A4FA-8327-408D-AA9A-8EA7E9A9FE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F10BF7-CC31-4398-A980-0A4321D6838B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F10BF7-CC31-4398-A980-0A4321D6838B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F10BF7-CC31-4398-A980-0A4321D6838B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F10BF7-CC31-4398-A980-0A4321D6838B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B4B6C6-1ECE-4CFC-838A-E262BD4740CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B4B6C6-1ECE-4CFC-838A-E262BD4740CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B4B6C6-1ECE-4CFC-838A-E262BD4740CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B4B6C6-1ECE-4CFC-838A-E262BD4740CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B341680-982C-4E38-8F6A-55562E933D29}.Debug|Any CPU.ActiveCfg = Debug
+		{2B341680-982C-4E38-8F6A-55562E933D29}.Release|Any CPU.ActiveCfg = Release
+		{EE96EA25-6AD5-43B9-8938-72ED258AB182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE96EA25-6AD5-43B9-8938-72ED258AB182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE96EA25-6AD5-43B9-8938-72ED258AB182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE96EA25-6AD5-43B9-8938-72ED258AB182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B652CF4-054A-4446-BC4E-F220E51F0269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B652CF4-054A-4446-BC4E-F220E51F0269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B652CF4-054A-4446-BC4E-F220E51F0269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B652CF4-054A-4446-BC4E-F220E51F0269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78854DE5-7391-4A06-A6A0-4433717CF6FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78854DE5-7391-4A06-A6A0-4433717CF6FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78854DE5-7391-4A06-A6A0-4433717CF6FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78854DE5-7391-4A06-A6A0-4433717CF6FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

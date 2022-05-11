@@ -1,0 +1,10 @@
+D:\GDSMPay\GDSMOPay.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\GDSMPay\GDSMOPay.Common\bin\Debug\GDSMOPay.Common.dll
+D:\GDSMPay\GDSMOPay.Common\bin\Debug\GDSMOPay.Common.pdb
+D:\GDSMPay\GDSMOPay.Common\obj\Debug\GDSMOPay.Common.dll
+D:\GDSMPay\GDSMOPay.Common\obj\Debug\GDSMOPay.Common.pdb
+D:\GDSMPay\GDSMOPay.Common\bin\Release\GDSMOPay.Common.dll
+D:\GDSMPay\GDSMOPay.Common\bin\Release\GDSMOPay.Common.pdb
+D:\GDSMPay\GDSMOPay.Common\obj\Release\ResolveAssemblyReference.cache
+D:\GDSMPay\GDSMOPay.Common\obj\Release\GDSMOPay.Common.dll
+D:\GDSMPay\GDSMOPay.Common\obj\Release\GDSMOPay.Common.pdb

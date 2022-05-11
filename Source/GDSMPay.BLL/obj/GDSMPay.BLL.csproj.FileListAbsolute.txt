@@ -1,0 +1,5 @@
+D:\GDSMPay\GDSMPay.BLL\bin\Release\GDSMPay.BLL.dll
+D:\GDSMPay\GDSMPay.BLL\bin\Release\GDSMPay.BLL.pdb
+D:\GDSMPay\GDSMPay.BLL\obj\Release\ResolveAssemblyReference.cache
+D:\GDSMPay\GDSMPay.BLL\obj\Release\GDSMPay.BLL.dll
+D:\GDSMPay\GDSMPay.BLL\obj\Release\GDSMPay.BLL.pdb

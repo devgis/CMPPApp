@@ -1,0 +1,10 @@
+
+错误消息:
+错误源:GDSMOPay.Common
+调用堆栈:   在 PRT.GDSMPay.Common.OracleHelper.ExecSql(String sql) 位置 D:\GDSMPay\GDSMOPay.Common\OracleHelper.cs:行号 81
+   在 GDSMPayService.Service.ProcessCMPPEvent(SMSEventArgs e) 位置 D:\GDSMPay\GDSMPayService\Service.cs:行号 53
+错误位置:Int32 ExecSql(System.String)
+帮助链接:
+错误时间:2011-05-06 13:39:44 078
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
